@@ -1,4 +1,4 @@
-#**CO2 Emissions Analysis with Machine Learning**
+**CO2 Emissions Analysis with Machine Learning**
 
 **Overview**
 This project demonstrates the use of machine learning algorithms to analyze and predict CO2 emissions of vehicles. The dataset contains features like engine size, fuel consumption, and cylinders that are used to predict or classify CO2 emissions into categories. The project applies two machine learning algorithms:
